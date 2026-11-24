@@ -7,7 +7,7 @@ robot vacuum's own excuse for missing a spot, in its own voice.
 
 import os
 
-EXCUSE = "My lidar mapped that crumb as a load-bearing wall, so I circled it twice, saluted, and filed a formal complaint with the dustbin."
+EXCUSE = "My lidar mapped that crumb as load-bearing, so I circled it twice, saluted, and reported the dustbin for unsafe working conditions."
 
 
 def main():
